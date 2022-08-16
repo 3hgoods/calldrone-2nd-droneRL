@@ -7,6 +7,9 @@
 - 가상환경에서 건물을 3D 모델링하는 드론 - 인공지능 기반제어
   https://www.youtube.com/watch?v=dtYQhjl_Oxw
   
+- 건설현장 지도 감리
+https://basis.co.kr/index.php?route=information/information&information_id=7#biz
+
   
   
 ## 인용자료
