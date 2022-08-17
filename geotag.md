@@ -11,6 +11,6 @@ https://sangogi.com/2656780
 
 
 
-imcho1@nate.com
+imcho1@nate.com 조성휘 강사
 
 
