@@ -7,3 +7,10 @@ https://stackoverflow.com/questions/453395/what-is-the-best-way-to-geotag-jpeg-i
 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=khalif&logNo=221021409297
 
 https://sangogi.com/2656780
+
+
+
+
+imcho1@nate.com
+
+
