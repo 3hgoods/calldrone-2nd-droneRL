@@ -29,3 +29,25 @@
    * https://www.youtube.com/watch?v=kldK06URx1A&ab_channel=%EB%8B%A4%EC%9A%B0%EB%8D%B0%EC%9D%B4%ED%83%80
    
 ```
+
+
+## 역설계2
+
+
+```
+Geomagic Design X
+https://www.youtube.com/watch?v=BgLLBPJXjKA
+
+MetraSCAN 3D을 이용한 역설계 웨비나/3D스캐너/Geomagic Design X/CREAFORM/3DSCANNER/3DSCANNING
+https://www.youtube.com/watch?v=lAEUdQphPgI
+
+Kreon Ace scanning arm and Geomagic DesignX
+https://www.youtube.com/watch?v=5B5PHKtTBEY
+
+
+
+
+
+```
+
+
