@@ -1,9 +1,10 @@
 
 ## world 만들기
 
+* unity 외부에서 에셋 만들기
 - https://docs.unity3d.com/kr/2019.4/Manual/CreatingDCCAssets.html
+
 ```
-nity 외부에서 에셋 만들기
 Unity 외부에서 게임 캐릭터, 터레인 및 기타 환경 오브젝트를 위한 복잡한 모델을 만들어 임포트할 수 있습니다. 예를 들어 Blender 또는 Autodesk® Maya®에서 터레인용 SpeedTree 모델과 게임 오브젝트를 만들 수 있습니다.
 Unity는 대부분의 3D 모델링 애플리케이션에서 익스포트할 수 있는 FBX 파일을 지원합니다. 하지만 SketchUp과 SpeedTree는 FBX로의 익스포트를 지원하지 않습니다. 이러한 전용 파일 포맷으로 작업하는 방법은 SketchUp Settings 및 SpeedTree 문서를 참조하십시오.
 애플리케이션 파일을 Unity 프로젝트에 직접 저장하는 대신, 항상 모델을 3D 모델링 애플리케이션에서 FBX로 익스포트하십시오. 프로덕션 시 네이티브 파일 포맷을 바로 사용하면 안 됩니다. Unity 프로젝트에서 전용 애플리케이션 파일을 직접 사용하는 경우에도 Unity는 해당 파일을 FBX 포맷으로 전환한 후 임포트합니다.
