@@ -30,4 +30,21 @@ https://edge.seas.harvard.edu/files/edge/files/airlearning_1906.00421.pdf
 
 
 
+
+https://www.youtube.com/watch?v=C-clKzBa5Ec
+https://github.com/wil3/neuroflight
+
+
 ```
+
+
+
+### 결론: PXhwak customized  with RL
+
+```
+http://nutshellking.com/articles/xue-xi-zong-jie/customize_Pixhawk/
+
+
+
+```
+
