@@ -11,11 +11,22 @@
 
 ### 참조자료
 
+```
+https://www.chenshiyu.top/blog/2020/05/25/A-Survey-of-UAV-Simulation-With-Reinforcement-Learning/
+
+
+
+
+
+```
+
+
+
 
 ```
 
 https://github.com/harvard-edge/airlearning
-
+https://edge.seas.harvard.edu/files/edge/files/airlearning_1906.00421.pdf
 
 
 
