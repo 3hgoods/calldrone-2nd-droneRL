@@ -48,3 +48,16 @@ http://nutshellking.com/articles/xue-xi-zong-jie/customize_Pixhawk/
 
 ```
 
+
+```
+기타
+https://www.mathworks.com/help/supportpkg/px4/ref/connected-io-px4autopilot.html
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9548090
+
+
+
+
+```
+
+
+
