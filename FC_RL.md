@@ -55,6 +55,9 @@ https://www.mathworks.com/help/supportpkg/px4/ref/connected-io-px4autopilot.html
 https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9548090
 
 
+steering controller
+https://on-demand.gputechconf.com/gtc/2017/presentation/s7172-nikolai-smolyanskiy-autonomous-drone-navigation-with-deep-learning.pdf
+
 
 
 ```
