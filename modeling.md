@@ -6,6 +6,10 @@
 - long range
 https://www.youtube.com/watch?v=Hrirbhz3HL4
 https://www.youtube.com/watch?v=PuB3VC261Tw
+https://www.youtube.com/watch?v=V2Hkpk-kIA8
+https://www.youtube.com/watch?v=-o6-m4_83N4
+https://www.youtube.com/watch?v=fp6cJVseOpM
+
 
 
 
