@@ -3,6 +3,12 @@
 ## 역설계 Best tool:  Geomagic Design X
 ```
 
+- long range
+https://www.youtube.com/watch?v=Hrirbhz3HL4
+https://www.youtube.com/watch?v=PuB3VC261Tw
+
+
+
 https://www.youtube.com/watch?v=BgLLBPJXjKA
 https://www.youtube.com/watch?v=XzqUY_Fmo0Y
 https://www.youtube.com/watch?v=UD4asn3gkNI
