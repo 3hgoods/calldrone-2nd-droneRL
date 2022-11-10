@@ -27,6 +27,9 @@
 ```
 - Silantro Unity3D Helicopter Simulator
 - https://www.youtube.com/watch?v=zaU41fV7yvA
+- https://youtu.be/RCh5DoBHteY
+- https://www.youtube.com/watch?v=pytvErw_tTg
+- https://youtu.be/z2iOaBq5Ax4
 
 ```
 
