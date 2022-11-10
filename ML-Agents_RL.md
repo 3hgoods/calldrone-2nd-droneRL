@@ -15,20 +15,27 @@
 
 ``` 
 
-- https://github.com/Unity-Technologies/ml-agents
+- https://www.youtube.com/watch?v=6rHBfuZEivc
 ```
-https://www.youtube.com/watch?v=6rHBfuZEivc
+- 강아지 로봇 + 전투 가상
+- https://github.com/Unity-Technologies/ml-agents
 
 ``` 
-https://github.com/mbaske/ml-explorer-drone
+
+
+- https://www.youtube.com/watch?v=Wv_bFjstlgk
 
 ``` 
-https://www.youtube.com/watch?v=Wv_bFjstlgk
+- 탐사드론 , 레이저가 나가는 것 혼동스러움. 카메라 시야각 같음.
+- https://github.com/mbaske/ml-explorer-drone
 ``` 
 
 
+- https://www.youtube.com/watch?v=FvnMka3daxw
+
+``` 
+- 로봇걷기
 - https://github.com/kressdev/RagdollTrainer
 
-``` 
-https://www.youtube.com/watch?v=FvnMka3daxw
+
 ``` 
