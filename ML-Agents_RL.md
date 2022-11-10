@@ -2,13 +2,16 @@
 
 - https://www.youtube.com/watch?v=MKDBcKNJVS4
 ```
-https://github.com/mbaske/ml-drone-collection
+- 여러 종류 드론
+- https://github.com/mbaske/ml-drone-collection
 
 ```
 
+- https://www.youtube.com/watch?v=EwB8XXCYOsc
+
+```
+- 개미, 바닥센서
 - github.com/mbaske/robot-ants
-```
-https://www.youtube.com/watch?v=EwB8XXCYOsc
 
 ``` 
 
