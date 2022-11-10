@@ -7,6 +7,19 @@
 
 ```
 
+- https://www.youtube.com/watch?v=WYjToRRG4uE
+```
+- 헬기 물리
+- https://github.com/ertanturan/Unity-Helicopter-Physics
+
+```
+
+- https://www.youtube.com/watch?v=cAbxV65TeRI
+```
+Silantro Unity3D Helicopter Simulator
+```
+
+
 - https://www.youtube.com/watch?v=EwB8XXCYOsc
 
 ```
