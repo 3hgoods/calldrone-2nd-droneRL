@@ -1,7 +1,11 @@
 
-- https://gdev.tistory.com/1
+
+
 ```
 - 설치에 대한 기초 정보로 시작
+- https://kang-korea-life.tistory.com/m/97
+- https://gdev.tistory.com/1
+
 
 ```
 
