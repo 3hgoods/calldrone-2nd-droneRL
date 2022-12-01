@@ -11,6 +11,8 @@
 - https://github.com/alvgaona/unity-drone-controller
 - https://docs.google.com/document/d/11qjjuwH5nveTLLfupgS5zz5raGgNtykx807zplPDYI0/edit
 
+- 2d 기동
+ - https://github.com/adidinchuk/2d-unity-quadcopter-sim
 
 ```
 
