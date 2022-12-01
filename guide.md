@@ -14,6 +14,10 @@
 - 2d 기동
  - https://github.com/adidinchuk/2d-unity-quadcopter-sim
 
+- 3d pid 조절
+- https://www.habrador.com/tutorials/pid-controller/3-stabilize-quadcopter/
+
+
 ```
 
 
