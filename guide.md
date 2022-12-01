@@ -7,6 +7,10 @@
 - https://github.com/reinforcement-learning-kr/Unity_ML_Agents_2.0/tree/main/unity_project
 - 
 
+- 드론과 조절기 코드
+- https://github.com/alvgaona/unity-drone-controller
+- https://docs.google.com/document/d/11qjjuwH5nveTLLfupgS5zz5raGgNtykx807zplPDYI0/edit
+
 
 ```
 
