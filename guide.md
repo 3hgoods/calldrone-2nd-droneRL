@@ -23,6 +23,21 @@
 - activate unity_ml20
 - conda update conda
 
+
+혹시 저희가 사용하는 2020.2.2f1이나 2021.1.18f1 버전으로 해보시기를 추천드립니다.
+21.3.14f1
+
+https://unity3d.com/kr/unity/whats-new/2020.2.2
+https://lektion-von-erfolglosigkeit.tistory.com/125
+conda create -n unity_ml17 python=3.7
+conda activate unity_ml17
+pip install -e ml-agents-envs
+pip install -e ml-agents
+pip install torch torchvision torchaudio
+
+
+
+
 - 해당 과정을 통해서 설치를 진행했을 때 pytorch가 설치되지 않은 경우는 pytorch 홈페이지 (https://pytorch.org/) 에서 pytorch 설치를 추가적으로 진행하시고 이후 내용을 진행해주셔야합니다
 - https://learn.microsoft.com/ko-kr/windows/ai/windows-ml/tutorials/pytorch-analysis-installation
 
