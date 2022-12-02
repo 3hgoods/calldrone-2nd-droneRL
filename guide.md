@@ -42,6 +42,8 @@ pip install -e ml-agents
 pip install torch torchvision torchaudio
 
 
+- 동영상보기 https://www.youtube.com/watch?v=RsCjC4yDpzE
+
 
 
 - 해당 과정을 통해서 설치를 진행했을 때 pytorch가 설치되지 않은 경우는 pytorch 홈페이지 (https://pytorch.org/) 에서 pytorch 설치를 추가적으로 진행하시고 이후 내용을 진행해주셔야합니다
