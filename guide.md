@@ -22,7 +22,7 @@
 
 
 ### 환경구축하기
-
+- https://www.youtube.com/watch?v=RsCjC4yDpzE
 ```
 - https://kang-korea-life.tistory.com/m/97
 - conda create -n unity_ml20 python=3.10
@@ -30,16 +30,41 @@
 - conda update conda
 
 
-혹시 저희가 사용하는 2020.2.2f1이나 2021.1.18f1 버전으로 해보시기를 추천드립니다.
+혹시 저희가 사용하는 2020.2.2f1이나
+2021.1.18f1 버전으로 해보시기를 추천드립니다.
+
 21.3.14f1
 
+
 https://unity3d.com/kr/unity/whats-new/2020.2.2
+
 https://lektion-von-erfolglosigkeit.tistory.com/125
+
 conda create -n unity_ml17 python=3.7
 conda activate unity_ml17
+
 pip install -e ml-agents-envs
 pip install -e ml-agents
-pip install torch torchvision torchaudio
+
+pip3 install torch torchvision torchaudio
+
+
+유니티 첫 시작 따라하기
+
+pip3 install torch=1.8.2+cpu torchvision==0.8.2 torchaudio --extra-index-url https://download.pytorch.org/whl/nightly/cpu
+
+conda create -n unity_ml20.38 python=3.8
+
+conda env remove -n unity_ml17
+conda env remove -n unity_ml20
+
+  environment location: C:\Users\h7\.conda\envs\unity_ml20.38
+  
+  
+  
+  
+  
+  
 
 
 - 동영상보기 https://www.youtube.com/watch?v=RsCjC4yDpzE
