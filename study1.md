@@ -23,3 +23,12 @@ https://github.com/Unity-Technologies/Unity-Robotics-Hub/blob/main/tutorials/pic
 https://github.com/NiryoRobotics
 
 ```
+
+
+### 두산 로봇
+
+```
+제품 가격은 모르나 아카데미는 존재
+https://www.youtube.com/watch?v=TpvBziOb--A
+
+```
