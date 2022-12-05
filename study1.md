@@ -29,6 +29,8 @@ https://github.com/NiryoRobotics
 
 ```
 제품 가격은 모르나 아카데미는 존재
-https://www.youtube.com/watch?v=TpvBziOb--A
+- https://www.youtube.com/watch?v=TpvBziOb--A
+- https://github.com/doosan-robotics/doosan-robot2
+
 
 ```
