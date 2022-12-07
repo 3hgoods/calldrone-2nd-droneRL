@@ -19,6 +19,7 @@
 
 - 드론 셋팅
 - https://aifactory.space/competition/detail/1893
+- https://github.com/reinforcement-learning-kr/2021_RLKR_Drone_Delivery_Challenge_with_Unity
 
 
 ```
