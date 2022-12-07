@@ -28,10 +28,20 @@
 
 
 
-### 월드제작하기
+### 월드제작하기 1 builder
 
 ```
 https://eunjin3786.tistory.com/502
 
 ```
+
+### 월드제작하기 2 3dmax
+
+```
+https://docs.unity3d.com/kr/530/Manual/HOWTO-ImportObjectMax.html
+
+```
+
+
+
 
