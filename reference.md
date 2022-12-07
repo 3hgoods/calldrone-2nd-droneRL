@@ -15,6 +15,8 @@
 - https://scienceon.kisti.re.kr/commons/util/originalView.do?cn=TRKO201900001620&dbt=TRKO&rn=
 
 
+# 실물과 함께 하는 
+- https://github.com/KumarRobotics/kr_autonomous_flight
 
 - 모터/액추에이터 접근
 https://arxiv.org/pdf/1901.08652.pdf
