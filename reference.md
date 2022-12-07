@@ -1,3 +1,11 @@
+### etc
+- https://github.com/AutonomousDeliveryDrone/Autonomous-Drone-Delivery-System
+- https://github.com/KumarRobotics/kr_autonomous_flight
+- https://github.com/topics/autonomous-quadcoptor?o=desc&s=updated
+- https://www.habrador.com/tutorials/pid-controller/3-stabilize-quadcopter/
+- https://github.com/DTUAV/VPS
+- https://github.com/alvgaona/unity-drone-controller
+
 
 
 ```
