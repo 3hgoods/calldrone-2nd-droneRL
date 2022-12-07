@@ -5,6 +5,8 @@
 - https://www.habrador.com/tutorials/pid-controller/3-stabilize-quadcopter/
 - https://github.com/DTUAV/VPS
 - https://github.com/alvgaona/unity-drone-controller
+- https://medium.com/@Heathrileyo/drone-controls-with-the-new-unity-input-system-b51fdd2ae156
+
 
 
 
